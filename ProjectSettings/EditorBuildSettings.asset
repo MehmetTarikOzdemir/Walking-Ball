@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Disar/Scene/Menu.unity
+    guid: 504dd5ff3be65414ba9f02be4a5cb8e8
+  - enabled: 1
+    path: Assets/Disar/Scene/Shop.unity
+    guid: d2d5da803b5b245f390224a6f03e350f
+  - enabled: 1
+    path: Assets/Disar/Scene/Episode.unity
+    guid: f8eada9cb0deb462788cf5d40f808a78
+  - enabled: 1
+    path: Assets/Disar/Scene/GameScene/1.unity
+    guid: 61d3f50e90dee4bb8b51ece472716ab2
+  - enabled: 1
+    path: Assets/Disar/Scene/GameScene/2.unity
+    guid: d6f2a646f09a84985902686e7ebaca03
+  - enabled: 1
+    path: Assets/Disar/Scene/GameScene/3.unity
+    guid: 0c290622eaa5c464099c04d7200670fe
+  - enabled: 1
+    path: Assets/Disar/Scene/GameScene/4.unity
+    guid: 6b127f6e72e694fa4a7fdedc5c92adfc
+  - enabled: 1
+    path: Assets/Disar/Scene/GameScene/5.unity
+    guid: 1fae8e691118545ae9e545acfa722181
+  - enabled: 1
+    path: Assets/Disar/Scene/GameScene/6.unity
+    guid: df7e28fc999644113854d2a97f3d8f5b
+  - enabled: 1
+    path: Assets/Disar/Scene/GameScene/7.unity
+    guid: 64e1e84cf8dab465c9cd061aae1b204d
+  - enabled: 1
+    path: Assets/Disar/Scene/GameScene/8.unity
+    guid: f6f8b56ba752d493c915dddc1271dda1
+  - enabled: 1
+    path: Assets/Disar/Scene/GameScene/9.unity
+    guid: b10753024aa5a40619fefc90d2a67291
+  - enabled: 1
+    path: Assets/Disar/Scene/GameScene/10.unity
+    guid: 9fa71577103b74d5ebdfefcfc91b59d3
+  m_configObjects: {}
